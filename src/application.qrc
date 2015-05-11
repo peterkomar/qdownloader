@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/download.png</file>
+        <file>img/transform-scale.png</file>
+        <file>img/document-import.png</file>
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+        <file>img/start.png</file>
+        <file>img/stop.png</file>
+        <file>img/ico.png</file>
+        <file>img/ico.ico</file>
+        <file>img/directory.png</file>
+    </qresource>
+</RCC>
